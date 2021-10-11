@@ -6,6 +6,7 @@ public class Student {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Its a sample Student class");
+		System.out.println("Its created for practise");
 
 	}
 
