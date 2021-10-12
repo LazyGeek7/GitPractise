@@ -1,3 +1,5 @@
 # GitPractise
 dummy readme
-This is dummy lines
+
+This is to learn merge conflict
+
